@@ -1,0 +1,5 @@
+provider: generic
+url: localhost
+updaterCacheDirName: feather-launcher-updater
+publisherName:
+  - Digital Ingot, Inc.
